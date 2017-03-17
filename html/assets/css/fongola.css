@@ -1,5 +1,9 @@
 
-body {background:#fff;}
+body {background:#fff; font-family: 'roboto',Times,'Times New Roman',serif;}
+
+p {
+    font-family: 'roboto',Times,'Times New Roman',serif;
+}
 
 @media (min-width: 550px) {
 .listing-features-column {
@@ -39,7 +43,8 @@ body {background:#fff;}
 
 /**/
 
-.listing--heading { font-family: 'Oswald',Times,'Times New Roman',serif;
+.listing--heading { 
+    font-family: 'Oswald',Times,'Times New Roman',serif;
     font-weight: 400;
     font-style: normal;
     font-size: 24px;
@@ -56,6 +61,8 @@ body {background:#fff;}
 
 
 section.hero_carousel { position: relative; margin-bottom: 1.875rem; clear:both; background-color: #111111; }
+
+
 
 div.hero-carousel { background-color: #111111; position: relative; overflow-y: hidden;  }
 
