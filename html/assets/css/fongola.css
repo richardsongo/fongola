@@ -22,20 +22,19 @@ p {
 
 
 .listing-features-column .c0-text {
-    font-family: 'roboto',Helvetica,Arial,sans-serif;
+    font-family: 'Roboto',Helvetica,Arial,sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
-    line-height: 28px;
+    line-height: 18px;
 }
 
 
 .c0-text-editorial p {
-    font-family: 'roboto',Times,'Times New Roman',serif;
-    font-weight: 400;
+    font-family: 'Roboto',Times,'Times New Roman',serif;
     font-style: normal;
     font-size: 16px;
-    line-height: 28px;
+    line-height: 18px;
 }
 
 
